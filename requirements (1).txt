@@ -1,0 +1,17 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+tensorflow>=2.15
+optuna>=3.6
+shap>=0.45
+networkx>=3.2
+matplotlib>=3.8
+seaborn>=0.13
+fastapi>=0.111
+uvicorn[standard]>=0.29
+pydantic>=2.7
+pydantic-settings>=2.2
+paho-mqtt>=2.1
+pymodbus>=3.6
+sqlalchemy>=2.0
+pytest>=8.2
